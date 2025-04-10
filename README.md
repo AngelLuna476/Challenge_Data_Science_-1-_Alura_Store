@@ -29,6 +29,6 @@ El objetivo es identificar la tienda menos eficiente y presentar una recomendaci
 
 ## Licencias:
 
-Este proyecto está basado en contenido educativo de Alura Latam y es utilizado con fines de aprendizaje personal.
-Diseño y forma de desarrollar el challenge por: José Ángel Luna Delgado.
+- Este desafío está basado en contenido educativo de Alura Latam en conjunto con Oracle Next Education y es utilizado con fines de aprendizaje personal.
+- Diseño y propuesta de solución del challenge por: José Ángel Luna Delgado.
 
