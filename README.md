@@ -8,23 +8,26 @@ El objetivo es identificar la tienda menos eficiente y presentar una recomendaci
 
 ---
 
-## Lo que practicó:
+## Lo que se llevo a cabo:
 - Carga y manipulación de datos CSV con la biblioteca Pandas.
 
 - Creación de visualizaciones de datos con la biblioteca Matplotlib.
 
 - Análisis de métricas como ingresos, reseñas y rendimiento de ventas.
 
+---
 
-
-
-# Requisitos para que sea existoso el desafío:
+## Requisitos para que sea existoso el desafío:
 
 - Analizar datos de la tienda: Se debe de evaluar información como los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
 
 - Crear gráficos para visualización: Decidir qué tipos de gráficos utilizar para presentar los resultados de forma clara y visual (Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circulares, de dispersión y otros)
 
 - Enviar una recomendación: Después del análisis, escribir un texto explicando a qué tienda debería vender el Sr. João y por qué, basándose en los datos presentados.
+
+---
+
+## Autor y diseñador:
 
 
 
