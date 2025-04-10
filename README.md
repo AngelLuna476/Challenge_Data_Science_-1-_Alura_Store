@@ -1,6 +1,6 @@
 <h1 align="center">CHALLENGE DATA SCIENCE #1</h1>
 
-*Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
+<p align="center"><strong><em>Programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
 
 Proyecto desarrollado en Google Colab, en donde mediante una base de datos se ayuda al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. 
 Para ello, se analiza datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. 
