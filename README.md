@@ -29,6 +29,6 @@ El objetivo es identificar la tienda menos eficiente y presentar una recomendaci
 
 ## Licencias:
 
-- Este desafío está basado en contenido educativo de Alura Latam en conjunto con Oracle Next Education y es utilizado con fines de aprendizaje personal.
 - Diseño y propuesta de solución del challenge por: José Ángel Luna Delgado.
+- El material con el cual se trabajo es parte del programa de formación de la especialización de Data Science dado por ALURA LATAM / ONE.
 
